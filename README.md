@@ -1,3 +1,5 @@
+Affciher des infos sur un ou plsieurs perso Marvel
+
 Pour lancer le jeu : node index.js
 
 Options :
